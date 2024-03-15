@@ -3,7 +3,7 @@
 title: DH Alchemy
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
-author: the cooperative # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
+author: the associates # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Welcome # as it will appear in the nav
@@ -44,13 +44,12 @@ heroSettings:
 ---
 
 # A Digital Humanities Consultancy
-Advice, guidance, and support for implementing humanistic and humane approaches to your data. 
 
-You've got lots of data, lots of information, tonnes of documents. How do you make sense of that? Is this where you buy some 'ai'-powered solution off the shelf? Do you make your own solution? 
+You've got lots of data, lots of information, tonnes of documents. How do you make sense of it all? Is this where you buy some 'ai'-powered solution off the shelf? Do you make your own solution? What should you do? Worried about being left behind?
 
-We're the people who will tell you 'no, that might not be a good idea, and here are the reasons why'.
+Let us offer advice, guidance, and support for implementing humanistic and humane approaches to your data and your workflows. We're the people who will tell you when something might not be a good idea.
 
-On the other hand, if it _is_ good, we can take your idea and make it _better_.
+On the other hand, if it _is_ a good idea, we can take it and make it _better_.
 
 Drop us a line at dhalchemy at craftingdigitalhistory dot ca.
 
